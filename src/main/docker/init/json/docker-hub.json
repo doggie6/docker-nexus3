@@ -1,0 +1,5 @@
+{
+  "name": "docker-hub",
+  "type": "groovy",
+  "content": "repository.createDockerProxy('docker-hub','https://index.docker.io/','HUB',null,null,null)"
+}

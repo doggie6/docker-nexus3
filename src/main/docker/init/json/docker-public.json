@@ -1,0 +1,5 @@
+{
+  "name": "docker-public",
+  "type": "groovy",
+  "content": "repository.createDockerGroup('docker-public',5001,null,['docker-hub','docker-163','docker-repo'])"
+}

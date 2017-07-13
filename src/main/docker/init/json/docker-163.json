@@ -1,0 +1,5 @@
+{
+  "name": "docker-163",
+  "type": "groovy",
+  "content": "repository.createDockerProxy('docker-163','http://hub-mirror.c.163.com','HUB',null,null,null)"
+}
