@@ -14,9 +14,6 @@ echo "--------------------"
 echo "--------------------"
 echo "--------------------"
 
-
-echo "$1"
-
 if [ "$1" == "bin/nexus" ]; then
   bash init/init.sh &
   exec "$@"
