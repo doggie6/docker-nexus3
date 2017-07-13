@@ -1,0 +1,5 @@
+{
+  "name": "user-deploy",
+  "type": "groovy",
+  "content": "security.addUser('deployment','deploy','deploy','deploy@test.com',true,'deployment',['nx-deploy'])"
+}

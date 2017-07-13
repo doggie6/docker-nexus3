@@ -1,0 +1,2 @@
+security.addRole("nx-deploy","nx-deploy","Dude with deploy permissions",["nx-repository-view-*-*-*"],[])
+security.addUser("deployment","deploy","deploy","deploy@test.com",true,"deployment",["nx-deploy"])

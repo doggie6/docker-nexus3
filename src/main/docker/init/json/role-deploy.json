@@ -1,0 +1,5 @@
+{
+  "name": "role-deploy",
+  "type": "groovy",
+  "content": "security.addRole('nx-deploy','nx-deploy','Dude with deploy permissions',['nx-repository-view-*-*-*'],[])"
+}
