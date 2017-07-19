@@ -36,7 +36,7 @@ cd init/json/
 
 #0
 
-for json in docker-163 docker-hub docker-repo docker-public
+for json in docker-163 docker-hub docker-repo docker-ali docker-public
 do
   isContains ${scripts} "\"${json}\""
   if [ $? != 0 ]

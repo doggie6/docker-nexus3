@@ -1,0 +1,5 @@
+{
+  "name": "docker-ali",
+  "type": "groovy",
+  "content": "repository.createDockerProxy('docker-ali','https://xt3b6cxm.mirror.aliyuncs.com/','HUB',null,null,null)"
+}
